@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4047224256581496933}
   - component: {fileID: 4047224256581496934}
   m_Layer: 0
-  m_Name: ChasyNetworkManager
+  m_Name: BasicChasyNetworkManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58,7 +58,7 @@ MonoBehaviour:
   disconnectInactiveConnections: 0
   disconnectInactiveTimeout: 60
   authenticator: {fileID: 0}
-  playerPrefab: {fileID: 3518417387027796050, guid: 2edfdfe576206f949902394dcbbfdcdb, type: 3}
+  playerPrefab: {fileID: 8295964963522780301, guid: 2d6b50502b132d04ea27cfe3d0499eea, type: 3}
   autoCreatePlayer: 0
   playerSpawnMethod: 1
   spawnPrefabs:
